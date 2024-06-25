@@ -32,6 +32,9 @@ The analysis identifies a correlation between LOC and the occurrence of major an
 Conclusion
 The metrics, including LOC, bug counts, security hotspots, major issues, and code smells, collectively reveal crucial insights into software quality. A consistent trend indicates that lower LOC is associated with fewer issues, suggesting that a streamlined codebase positively influences overall code quality. However, balancing code simplicity with feature demands remains an ongoing challenge.
 
+Author
+Abdelrahman Ahmed Elkady
+Student ID: 202201023
 
 GitHub Repository
 Calibre Repository
