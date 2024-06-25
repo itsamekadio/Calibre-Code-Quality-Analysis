@@ -1,11 +1,13 @@
 Calibre Code Quality Analysis
 Overview
+
 This repository contains a comprehensive analysis of the Calibre e-book management software, focusing on various software quality metrics and trends across multiple releases. Calibre, an open-source project initiated by Kovid Goyal, is a powerful tool for organizing, converting, and managing e-book collections.
 
 Project Overview
 Calibre is an open-source e-book management tool known for its extensive functionality, including support for various e-book formats, a built-in e-book viewer, and a content server for remote access. The project, written primarily in Python and utilizing technologies like Qt and WebKit, has been a staple in the e-book management community since its inception.
 
 Repository Contents
+The Metrics Are Evaluated and checked by SonarQube 
 Release Analysis Reports: Individual files for each analyzed release, detailing specific metrics and findings.
 Static Analysis Tool Exports: Data exported from static analysis tools, providing a deeper look into code quality aspects.
 Visual Data Snapshots: Visual representations of key data points and trends observed during the analysis.
